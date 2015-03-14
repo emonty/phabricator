@@ -81,6 +81,11 @@
       "rule" : ".login-Openid",
       "hash" : "9267ffbb8d4e6dee409c4d8fa2d50c0a"
     },
+    "login-OpenStackORG" : {
+      "name" : "login-OpenStackORG",
+      "rule" : ".login-OpenStackORG",
+      "hash" : "c22a183bfb1e46deeab864223ec48db9"
+    },
     "login-PayPal"       : {
       "name" : "login-PayPal",
       "rule" : ".login-PayPal",

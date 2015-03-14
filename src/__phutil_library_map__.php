@@ -2101,6 +2101,7 @@ phutil_register_library_map(array(
     'PhabricatorObjectUsesCredentialsEdgeType' => 'applications/transactions/edges/PhabricatorObjectUsesCredentialsEdgeType.php',
     'PhabricatorOffsetPagedQuery' => 'infrastructure/query/PhabricatorOffsetPagedQuery.php',
     'PhabricatorOneTimeTriggerClock' => 'infrastructure/daemon/workers/clock/PhabricatorOneTimeTriggerClock.php',
+    'PhabricatorOpenStackidAuthProvider' => 'applications/auth/provider/PhabricatorOpenStackidAuthProvider.php',
     'PhabricatorOwnerPathQuery' => 'applications/owners/query/PhabricatorOwnerPathQuery.php',
     'PhabricatorOwnersApplication' => 'applications/owners/application/PhabricatorOwnersApplication.php',
     'PhabricatorOwnersConfigOptions' => 'applications/owners/config/PhabricatorOwnersConfigOptions.php',
